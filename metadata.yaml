@@ -1,0 +1,52 @@
+_repo: Measure-for-MeasureThe-Works-of-William-Shakespeare--Cambridge-Edition---9-vols.-_23045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editors:
+  - agent_name: Clark, William George
+    aliases:
+    - Clarke, William George
+    - Clark, W. G. (William George)
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '25742'
+    url: http://www.gutenberg.org/2009/agents/25742
+  - agent_name: Glover, John, librarian of Trinity College, Cambridge
+    gutenberg_agent_id: '25743'
+    url: http://www.gutenberg.org/2009/agents/25743
+description: Cruel Angelo is left in charge of Vienna when the Duke pretends to leave
+  town. He revives an old law against fornication and sentences Claudio to death for
+  seducing Juliet, Claudio's betrothed. Claudio's sister, Isabella, pleads for his
+  life and Angelo offers to spare him in exchange for her virginity. His corruption
+  and severity are punished when the Duke reveals that he has witnessed it all. --From
+  publisher's description.
+gutenberg_issued: '2007-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vienna (Austria) -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Chastity -- Drama'
+- !lcsh 'Brothers and sisters -- Drama'
+- !lcc 'PR'
+title: 'Measure for Measure
+
+  The Works of William Shakespeare [Cambridge Edition] [9 vols.]'
+url: http://www.gutenberg.org/ebooks/23045
